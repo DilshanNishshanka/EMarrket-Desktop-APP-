@@ -1,0 +1,13 @@
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\bin\Debug\Panels.exe.config
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\bin\Debug\Panels.exe
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\bin\Debug\Panels.pdb
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.csprojAssemblyReference.cache
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.Form1.resources
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.Properties.Resources.resources
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.csproj.GenerateResource.cache
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.csproj.CoreCompileInputs.cache
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.exe
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.pdb
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.Registration.resources
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.csproj.ResolveComReference.cache
+C:\Users\Dilshan\Desktop\Visual Studio\Panels\Panels\obj\Debug\Panels.Login.resources
